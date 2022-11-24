@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelImport", "ExcelImport.csproj", "{8F3C4015-D618-46DD-AA2A-6B8D9A2F0DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{56F6F96D-D876-46B6-BD7A-EF5B15C0008D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{33490C83-2223-44A1-8717-D3A969DD22E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3C4015-D618-46DD-AA2A-6B8D9A2F0DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3C4015-D618-46DD-AA2A-6B8D9A2F0DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3C4015-D618-46DD-AA2A-6B8D9A2F0DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3C4015-D618-46DD-AA2A-6B8D9A2F0DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F6F96D-D876-46B6-BD7A-EF5B15C0008D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F6F96D-D876-46B6-BD7A-EF5B15C0008D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F6F96D-D876-46B6-BD7A-EF5B15C0008D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F6F96D-D876-46B6-BD7A-EF5B15C0008D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33490C83-2223-44A1-8717-D3A969DD22E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33490C83-2223-44A1-8717-D3A969DD22E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33490C83-2223-44A1-8717-D3A969DD22E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33490C83-2223-44A1-8717-D3A969DD22E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC6DF00-07E2-4D22-88F1-8EC5BDB94F5E}
+	EndGlobalSection
+EndGlobal
